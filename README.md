@@ -1,5 +1,12 @@
 # Ementas@UA
 
+## Warning !
+**This repo was [migrated to GLUA](https://github.com/GLUA-UA/meals-ua) where development will proceed. This repository is therefore deprecated.**
+
+
+
+----------
+
 ### A simple python script that presents the menus at all of the University of Aveiro's canteens.
 
 ![example](https://i.imgur.com/wy4iPez.png)
